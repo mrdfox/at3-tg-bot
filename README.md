@@ -54,7 +54,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/hopepsycho/kunjappan2.0/tree/master">
+<a href="https://heroku.com/deploy?template=https://github.com/mrdfox/at3-tg-bot
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
